@@ -1,0 +1,12 @@
+.player-draft{
+    display: flex;
+}
+.players-detils{
+ width: 70%;
+text-align: center;
+}
+.cart-detils{
+    width: 25%;
+    margin-left: 5%;
+
+}

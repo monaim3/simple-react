@@ -1,0 +1,17 @@
+.player-card{
+    width: 30%;
+    float: left;
+    background-color: #ddd;
+    box-shadow: 5px 10px 10px rgb(209, 197, 197);
+    overflow:hidden;
+    margin-left: 3%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+button{
+    width: 200px;
+    height: 30px;
+    background-color: orange;
+    padding:5px;
+    border-radius: 10px ;
+}

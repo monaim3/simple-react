@@ -1,0 +1,19 @@
+.header{
+   display: flex;
+}
+.logo {
+	width: 30%;
+	margin-left: 10%;
+}
+.navbar {
+	width: 70%;
+	
+	margin: auto;
+	margin-right: -40%;
+}
+.navbar a{
+    text-decoration: none;
+    margin-left: 15px;;
+    color:orange;
+    font-size: 24px;
+}
