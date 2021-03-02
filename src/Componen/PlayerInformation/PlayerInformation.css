@@ -11,7 +11,6 @@
 button{
     width: 200px;
     height: 30px;
-    background-color: orange;
-    padding:5px;
+    padding:2px;
     border-radius: 10px ;
 }
